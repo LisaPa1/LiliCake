@@ -1,0 +1,35 @@
+[
+  {
+    "key": "cake",
+    "label": "Gateaux personnalisés",
+    "description": "Des dizaines de personnalisations différentes sont disponibles",
+    "startPrice": 15,
+    "image": "/images/cake.jpg",
+    "link": "/cake"
+  },
+  {
+    "key": "cheesecake",
+    "label": "Délicieux cheesecake",
+    "description": "Des dizaines de personnalisations différentes sont disponibles",
+    "startPrice": 15,
+    "image": "/images/cheesecake.jpg",
+    "link": "/cake"
+  },
+  {
+    "key": "cookies",
+    "label": "Cookies maison",
+    "description": "Des dizaines de personnalisations différentes sont disponibles",
+    "startPrice": 2,
+    "image": "/images/cupcakes.png",
+    "link": "/cake"
+  },
+  {
+    "key": "cupcakes",
+    "label": "Meilleurs cupcakes",
+    "description": "Des dizaines de personnalisations différentes sont disponibles",
+    "startPrice": 15,
+    "image": "/images/cupcakes.png",
+    "link": "/cake"
+  }
+
+]
