@@ -1,0 +1,81 @@
+{
+  "key": "cakes",
+  "minFloor": 1,
+  "maxFloor": 4,
+  "pricePerPiece": 3,
+  "pieces" : [
+    {
+      "size": 5,
+      "label": "4/6 personnes"
+    },
+    {
+      "size": 7,
+      "label": "6/8 personnes"
+    },
+    {
+      "size": 9,
+      "label": "8/10 personnes"
+    },
+    {
+      "size": 11,
+      "label": "10/12 personnes"
+    },
+    {
+      "size": 13,
+      "label": "12/14 personnes"
+    },
+    {
+      "size": 15,
+      "label": "14/16 personnes"
+    }
+  ],
+  "bases": [
+    {
+      "key": "chocolate",
+      "label": "chocolat",
+      "extra": 0
+    },
+    {
+      "key": "vanilla",
+      "label": "vanille",
+      "extra": 0
+    },
+    {
+      "key": "lemon",
+      "label": "citron",
+      "extra": 0
+    },
+    {
+      "key": "strawberry",
+      "label": "fraise",
+      "extra": 0
+    }
+  ],
+  "garnish": [
+    {
+      "key": "jam",
+      "label": "confiture fraise",
+      "extra": 0
+    },
+    {
+      "key": "chocoCream",
+      "label": "crème chocolat",
+      "extra": 0
+    },
+    {
+      "key": "doubleChocoCream",
+      "label": "crème chocolat double",
+      "extraPerPiece": 0.5
+    }
+  ],
+  "glaze": [
+    "rose", "bleu", "marron", "vert"
+  ],
+  "extra": [
+    {
+      "key": "whippedCream",
+      "label": "chantilly",
+      "pricePerPiece": 0.5
+    }
+  ]
+}
